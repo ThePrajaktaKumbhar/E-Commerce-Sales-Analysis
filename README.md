@@ -148,7 +148,7 @@ Top revenue-generating products:
 
 ## Executive Summary Dashboard
 
-![Executive Summary](dashboard_page 1.png)
+![Executive Summary](dashboard_page_1.png)
 
 ## Customer And Product Analysis Dashboard
 
