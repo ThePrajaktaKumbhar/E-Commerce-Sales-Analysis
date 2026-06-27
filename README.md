@@ -146,8 +146,9 @@ Top revenue-generating products:
 
 # Dashboard Preview
 
-(Add dashboard images here)
-
+![Executive Summary](dashboard_page 1.png)
+![Customer and Product Analysis](dashboard_page_2.png)
+![Geographic Analysis](dashboard_page_3.png)
 
 # Project Outcome
 
