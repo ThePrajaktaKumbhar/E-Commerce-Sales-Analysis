@@ -106,15 +106,15 @@ Includes:
 
 ## Sales Performance
 
-- Total Revenue: £10.64M
-- Total Orders: 19,960
+- Total Revenue: £8.89M
+- Total Orders: 18,532
 - Total Customers: 4,338
-- Average Order Value: £532.17
+- Average Order Value: £479.56
 
 
 ## Monthly Sales Trend
 
-- November generated the highest revenue of approximately £1.50M.
+- November generated the highest revenue of approximately £1.16M.
 - Year-end months showed stronger sales performance.
 
 
@@ -129,19 +129,19 @@ Includes:
 
 Top revenue-generating countries:
 
-1. United Kingdom - £9.00M
-2. Netherlands - £285K
-3. EIRE - £283K
-4. Germany - £229K
+1. United Kingdom - £7.28M
+2. Netherlands - £285.45K
+3. EIRE - £265.26K
+4. Germany - £228.68K
 
 
 ## Product Insights
 
 Top revenue-generating products:
 
-1. DOTCOM POSTAGE - £206K
-2. REGENCY CAKESTAND 3 TIER - £174K
-3. PAPER CRAFT, LITTLE BIRDIE - £168K
+1. PAPER CRAFT, LITTLE BIRDIE - £168.47K
+2. REGENCY CAKESTAND 3 TIER - £142.26K
+3. WHITE HANGING HEART T-LIGHT HOLDER	- 100.39K
 
 
 # Dashboard Preview
